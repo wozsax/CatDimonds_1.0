@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	
+	"pattern": [
+		"I"
+		
+	],
+	"key": {
+		"I": {
+			"item": "firstmod:first_block"
+		}
+	},
+	"result":{
+		"item": "firstmod:first_item",
+		"count": 9
+		
+	}
+
+}
